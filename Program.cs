@@ -36,7 +36,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
-
+// ci/cd test
 // IMPORTANT
 app.UseCors("ReactPolicy");
 
